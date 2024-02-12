@@ -1,0 +1,13 @@
+commodity,gs,wgt,pop,rhs,lhs
+Communication,Mix of g&s,0.023,-0.07203995,0.036581818,0.018181818
+Miscellaneous goods and services,Mix of g&s,0.083,-0.020201331,0.121163636,0.054763636
+Education,Services,0.029,0,0.162545455,0.139345455
+"Housing, water, electricity, gas and other fuels",Mix of g&s,0.141,0.017672596,0.293527273,0.180727273
+Recreation and culture,Mix of g&s,0.138,0.019092508,0.422109091,0.311709091
+Clothing and footwear,Mix of g&s,0.058,0.051118318,0.486690909,0.440290909
+Restaurants and hotels,Services,0.138,0.052390146,0.615272727,0.504872727
+Health,Mix of g&s,0.024,0.057355332,0.652654545,0.633454545
+Food and non-alcoholic beverages,Food,0.119,0.064321815,0.766036364,0.670836364
+Transport,Mix of g&s,0.137,0.093538963,0.893818182,0.784218182
+Alcoholic beverages and tobacco,Goods,0.042,0.174908324,0.9456,0.912
+"Furniture, household equipment and maintenance",Mix of g&s,0.068,0.184926507,1.018181818,0.963781818

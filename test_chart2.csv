@@ -2,7 +2,7 @@ commodity,wgt,pop
 Communication,0.023,-0.07203995
 Miscellaneous goods and services,0.083,-0.020201331
 Education,0.029,0
-"Housing, water, electricity, gas and other fuels",0.141,0.017672596
+Housing water electricity gas and other fuels,0.141,0.017672596
 Recreation and culture,0.138,0.019092508
 Clothing and footwear,0.058,0.051118318
 Restaurants and hotels,0.138,0.052390146
@@ -10,4 +10,4 @@ Health,0.024,0.057355332
 Food and non-alcoholic beverages,0.119,0.064321815
 Transport,0.137,0.093538963
 Alcoholic beverages and tobacco,0.042,0.174908324
-"Furniture, household equipment and maintenance",0.068,0.184926507
+Furniture household equipment and maintenance,0.068,0.184926507

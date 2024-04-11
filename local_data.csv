@@ -1,0 +1,223 @@
+﻿Geography,CTYUA23CD,category,"Population
+aged 16 to 64
+ 2021","Employment
+","Employment rate
+","Unemployment
+","Unemployment rate
+","Economic inactivity
+","Economic inactivity rate
+","Claimant Count
+","Claimant Count proportion
+","Jobs
+","Jobs Density
+","Earnings by resident
+","Earnings by workplace
+","Notes
+",included in GIS
+County Durham,E06000047,Local Authority District,321,240,70.8,9,3.6,87,26.6,"10,636",3.3,213,0.66,550,520,,yes
+Darlington,E06000005,Local Authority District,66,54,82.5,2,3.4,10,15.2,"2,823",4.3,58,0.88,584,583,,yes
+Hartlepool,E06000001,Local Authority District,57,40,69.7,2,4.6,15,27.2,"2,978",5.3,36,0.64,573,577,,yes
+Middlesbrough,E06000002,Local Authority District,89,61,68.8,3,5.1,22,25.4,"5,382",6.0,73,0.82,529,484,,yes
+Northumberland,E06000057,Local Authority District,188,133,70.1,5,3.5,49,27.5,"6,087",3.2,126,0.67,569,543,,yes
+Redcar and Cleveland,E06000003,Local Authority District,80,62,74.9,2,3.6,18,23.3,"3,330",4.1,45,0.56,511,513,,yes
+Stockton-on-Tees,E06000004,Local Authority District,121,92,73.1,4,4.1,29,23.5,"4,916",4.1,93,0.77,561,576,,yes
+Gateshead,E08000037,Local Authority District,122,96,72.0,4,4.1,33,25.0,"5,448",4.5,104,0.85,538,526,,yes
+Newcastle upon Tyne,E08000021,Local Authority District,202,143,71.3,8,5.2,51,26.0,"9,009",4.5,207,1.02,602,611,,yes
+North Tyneside,E08000022,Local Authority District,129,97,73.6,4,3.5,29,22.5,"4,419",3.4,93,0.72,575,535,,yes
+South Tyneside,E08000023,Local Authority District,90,58,62.4,4,6.7,26,28.9,"5,029",5.6,49,0.54,518,450,,yes
+Sunderland,E08000024,Local Authority District,170,129,73.1,5,4.0,43,24.9,"7,727",4.6,134,0.79,484,513,,yes
+Blackburn with Darwen,E06000008,Local Authority District,97,64,67.9,3,4.7,26,28.6,"5,039",5.2,77,0.79,530,570,,yes
+Blackpool,E06000009,Local Authority District,87,60,71.1,3,4.2,22,27.4,"5,715",6.6,75,0.86,470,542,,yes
+Cheshire East,E06000049,Local Authority District,241,193,81.9,5,2.5,37,16.4,"5,602",2.3,223,0.92,638,597,,yes
+Cheshire West and Chester,E06000050,Local Authority District,220,146,68.9,5,3.0,60,29.0,"5,602",2.5,192,0.87,620,599,,yes
+Cumberland,E06000063,Local Authority District,165,134,79.6,4,2.6,28,17.3,"4,307",2.6,146,0.89,[x],[x],,yes
+Halton,E06000006,Local Authority District,80,60,76.6,2,2.9,16,20.6,"3,412",4.3,69,0.86,598,612,,yes
+Warrington,E06000007,Local Authority District,133,107,80.9,3,2.4,23,17.6,"3,247",2.4,155,1.17,630,625,,yes
+Westmorland and Furness,E06000064,Local Authority District,134,106,80.9,3,1.5,22,17.6,"2,685",2.0,122,0.91,[x],[x],,yes
+Bolton,E08000001,Local Authority District,182,128,68.5,7,4.9,49,27.5,"9,964",5.5,137,0.76,528,529,,yes
+Bury,E08000002,Local Authority District,119,92,77.6,3,3.0,22,19.4,"5,068",4.2,84,0.70,609,530,,yes
+Manchester,E08000003,Local Authority District,384,295,73.6,15,4.7,95,24.1,"23,084",6.0,471,1.23,529,610,,yes
+Oldham,E08000004,Local Authority District,148,114,75.4,5,4.3,33,22.6,"9,531",6.4,94,0.63,545,539,,yes
+Rochdale,E08000005,Local Authority District,138,102,72.5,5,4.4,33,24.9,"8,105",5.9,85,0.61,530,519,,yes
+Salford,E08000006,Local Authority District,182,126,72.4,7,5.1,36,21.3,"9,220",5.1,155,0.85,555,575,,yes
+Stockport,E08000007,Local Authority District,180,139,75.9,5,3.2,34,18.8,"5,791",3.2,158,0.88,632,549,,yes
+Tameside,E08000008,Local Authority District,145,106,73.3,4,3.3,34,24.5,"6,690",4.6,82,0.57,527,498,,yes
+Trafford,E08000009,Local Authority District,145,114,74.1,4,3.2,32,22.0,"4,378",3.0,180,1.24,683,585,,yes
+Wigan,E08000010,Local Authority District,205,146,71.3,5,3.2,52,25.9,"7,789",3.8,125,0.61,584,525,,yes
+Lancashire,E10000017,Local Authority District,756,566,74.7,21,3.5,168,23.2,"26,798",3.5,575,0.76,575,558,,yes
+Knowsley,E08000011,Local Authority District,98,70,72.5,3,3.6,23,24.2,"4,603",4.7,81,0.82,572,575,,yes
+Liverpool,E08000012,Local Authority District,327,240,69.8,15,5.7,86,25.6,"18,505",5.7,295,0.90,590,601,,yes
+Sefton,E08000014,Local Authority District,168,130,77.8,4,3.0,35,21.7,"6,259",3.7,105,0.63,587,569,,yes
+St. Helens,E08000013,Local Authority District,113,87,77.6,3,3.1,21,18.9,"4,486",4.0,74,0.65,576,690,,yes
+Wirral,E08000015,Local Authority District,192,155,75.4,4,2.6,43,22.3,"7,034",3.7,120,0.62,575,524,,yes
+East Riding of Yorkshire,E06000011,Local Authority District,198,162,79.9,4,2.3,35,18.4,"4,679",2.4,147,0.74,609,570,,yes
+"Kingston upon Hull, City of",E06000010,Local Authority District,172,128,73.6,5,3.5,42,24.5,"9,686",5.6,137,0.79,510,567,,yes
+North East Lincolnshire,E06000012,Local Authority District,95,72,73.2,3,3.5,23,24.3,"4,107",4.3,78,0.83,558,547,,yes
+North Lincolnshire,E06000013,Local Authority District,102,80,74.3,3,3.1,23,22.1,"3,486",3.4,90,0.88,585,590,,yes
+North Yorkshire,E06000065,Local Authority District,365,294,79.2,7,2.2,69,19.8,"7,196",2.0,337,0.93,585,556,,yes
+York,E06000014,Local Authority District,132,114,80.6,3,2.3,23,17.1,"2,285",1.7,128,0.97,598,636,,yes
+Barnsley,E08000016,Local Authority District,152,115,71.9,4,3.0,40,25.5,"5,325",3.5,97,0.63,536,541,,yes
+Doncaster,E08000017,Local Authority District,191,140,73.6,5,3.7,42,23.0,"8,894",4.6,138,0.72,569,537,,yes
+Rotherham,E08000018,Local Authority District,163,113,68.8,4,3.7,44,27.5,"6,952",4.3,117,0.71,541,551,,yes
+Sheffield,E08000019,Local Authority District,359,303,75.1,11,3.6,88,22.8,"15,389",4.3,296,0.82,591,569,,yes
+Bradford,E08000032,Local Authority District,339,232,68.1,13,5.4,90,27.2,"21,918",6.5,234,0.69,545,554,,yes
+Calderdale,E08000033,Local Authority District,127,104,75.1,4,3.3,29,22.0,"5,189",4.1,104,0.82,535,532,,yes
+Kirklees,E08000034,Local Authority District,269,207,73.0,9,4.0,64,23.4,"11,499",4.3,189,0.70,552,528,,yes
+Leeds,E08000035,Local Authority District,528,405,77.3,16,3.8,104,20.4,"22,710",4.3,513,0.97,597,595,,yes
+Wakefield,E08000036,Local Authority District,221,156,73.5,5,3.2,49,23.4,"7,753",3.5,172,0.78,529,552,,yes
+Derby,E06000015,Local Authority District,166,133,78.8,6,4.1,31,18.8,"7,878",4.7,160,0.96,579,709,,yes
+Leicester,E06000016,Local Authority District,245,160,65.5,10,6.1,67,28.4,"12,076",4.9,181,0.74,516,541,,yes
+North Northamptonshire,E06000061,Local Authority District,224,181,79.0,9,3.6,41,19.2,"7,224",3.2,173,0.77,580,555,,yes
+Nottingham,E06000018,Local Authority District,222,147,64.0,9,5.9,71,31.8,"12,190",5.5,228,1.03,491,536,,yes
+Rutland,E06000017,Local Authority District,24,18,79.9,1,2.6,4,18.1,364,1.5,21,0.86,710,598,Cells H85 I85 have a small sample size,yes
+West Northamptonshire,E06000062,Local Authority District,271,199,77.2,9,3.0,46,18.5,"8,296",3.1,261,0.96,599,574,,yes
+Derbyshire,E10000007,Local Authority District,485,386,76.1,12,3.0,103,21.3,"12,890",2.7,336,0.69,587,564,,yes
+Leicestershire,E10000018,Local Authority District,439,360,81.0,10,2.7,72,17.0,"9,494",2.2,367,0.84,591,557,,yes
+Lincolnshire,E10000019,Local Authority District,460,357,75.2,13,3.4,102,23.1,"14,106",3.1,352,0.76,574,545,,yes
+Nottinghamshire,E10000024,Local Authority District,504,391,74.1,14,3.4,120,23.8,"14,956",3.0,344,0.68,565,536,,yes
+"Herefordshire, County of",E06000019,Local Authority District,109,95,77.7,3,2.7,24,21.3,"2,589",2.4,107,0.98,566,537,,yes
+Shropshire,E06000051,Local Authority District,191,153,78.8,5,3.1,33,18.1,"4,468",2.3,162,0.85,585,556,,yes
+Stoke-on-Trent,E06000021,Local Authority District,161,120,73.8,5,4.3,36,22.9,"8,628",5.4,140,0.87,519,553,,yes
+Telford and Wrekin,E06000020,Local Authority District,116,87,77.3,3,3.3,22,20.5,"3,956",3.4,99,0.85,566,574,,yes
+Staffordshire,E10000028,Local Authority District,533,445,81.4,14,3.1,93,17.6,"14,838",2.8,409,0.77,600,554,,yes
+Warwickshire,E10000031,Local Authority District,369,287,79.9,9,3.2,59,17.2,"9,726",2.6,340,0.92,642,626,,yes
+Birmingham,E08000025,Local Authority District,737,506,66.9,40,7.3,206,27.6,"61,645",8.4,589,0.80,564,619,,yes
+Coventry,E08000026,Local Authority District,225,186,72.4,11,5.4,57,22.8,"12,369",5.5,184,0.82,610,652,,yes
+Dudley,E08000027,Local Authority District,196,156,77.5,7,4.0,37,19.4,"9,132",4.6,136,0.69,589,603,,yes
+Sandwell,E08000028,Local Authority District,216,153,70.2,9,5.6,54,25.5,"13,359",6.2,133,0.62,536,557,,yes
+Solihull,E08000029,Local Authority District,129,103,77.9,4,3.6,24,19.1,"4,084",3.2,155,1.20,694,665,,yes
+Walsall,E08000030,Local Authority District,174,127,70.2,8,6.0,39,22.8,"9,624",5.5,115,0.66,548,558,,yes
+Wolverhampton,E08000031,Local Authority District,165,116,68.4,8,6.2,43,26.2,"12,333",7.5,118,0.72,560,550,,yes
+Worcestershire,E10000034,Local Authority District,362,300,81.0,10,3.1,57,16.4,"10,917",3.0,291,0.80,577,575,,yes
+Bedford,E06000055,Local Authority District,117,84,77.6,4,4.5,19,18.4,"4,449",3.8,92,0.78,626,592,,yes
+Central Bedfordshire,E06000056,Local Authority District,185,161,82.8,5,3.2,28,14.9,"3,993",2.2,119,0.65,677,620,,yes
+Luton,E06000032,Local Authority District,146,106,72.3,6,5.2,33,23.4,"7,856",5.4,106,0.73,585,666,,yes
+Peterborough,E06000031,Local Authority District,137,105,77.5,6,5.0,22,17.6,"6,773",4.9,128,0.93,566,570,,yes
+Southend-on-Sea,E06000033,Local Authority District,112,87,74.9,5,4.9,25,22.2,"4,731",4.2,81,0.73,665,556,,yes
+Thurrock,E06000034,Local Authority District,112,88,77.4,4,4.5,20,18.4,"4,318",3.8,85,0.75,671,614,,yes
+Cambridgeshire,E10000003,Local Authority District,434,342,80.3,13,3.6,67,16.5,"9,371",2.2,388,0.90,666,647,,yes
+Essex,E10000012,Local Authority District,915,738,77.3,29,3.8,178,19.6,"25,415",2.8,701,0.77,635,584,,yes
+Hertfordshire,E10000015,Local Authority District,756,618,78.2,22,3.5,148,19.6,"18,958",2.5,759,1.00,705,665,,yes
+Norfolk,E10000020,Local Authority District,544,431,76.3,18,4.0,102,19.4,"14,819",2.7,429,0.79,567,568,,yes
+Suffolk,E10000029,Local Authority District,453,357,77.0,14,3.7,90,20.3,"12,331",2.7,393,0.87,574,555,,yes
+Camden,E09000007,Local Authority District,153,147,74.8,7,4.3,38,20.8,"6,640",4.3,418,2.73,786,782,,yes
+City of London,E09000001,Local Authority District,7,20,100.0,[x],[x],[c],[c],179,2.6,673,98.74,[x],1138,CellsD209 E209 have a small sample size,yes
+Hackney,E09000012,Local Authority District,189,181,78.7,8,4.1,33,15.0,"11,257",5.9,175,0.92,705,766,Cells H210 I210 have a small sample size,yes
+Hammersmith and Fulham,E09000013,Local Authority District,136,98,74.9,5,4.8,28,21.7,"5,996",4.4,152,1.12,783,790,,yes
+Haringey,E09000014,Local Authority District,188,157,75.3,7,4.3,46,22.8,"12,417",6.6,93,0.49,703,639,,yes
+Islington,E09000019,Local Authority District,163,149,81.3,7,4.4,28,15.6,"8,415",5.2,267,1.64,775,824,,yes
+Kensington and Chelsea,E09000020,Local Authority District,103,70,63.4,4,4.9,35,33.8,"3,356",3.3,159,1.54,976,632,,yes
+Lambeth,E09000022,Local Authority District,242,204,80.5,8,3.8,43,17.2,"12,327",5.1,176,0.73,746,696,,yes
+Lewisham,E09000023,Local Authority District,213,176,79.1,9,4.6,32,14.7,"12,222",5.7,89,0.42,721,645,Cells H216 I216 have a small sample size,yes
+Newham,E09000025,Local Authority District,250,183,70.7,10,5.2,68,26.8,"15,772",6.3,145,0.58,678,726,,yes
+Southwark,E09000028,Local Authority District,229,190,78.2,8,3.9,45,19.1,"11,316",4.9,302,1.32,724,819,,yes
+Tower Hamlets,E09000030,Local Authority District,237,175,70.3,11,5.8,60,24.7,"12,273",5.2,311,1.31,797,924,,yes
+Wandsworth,E09000032,Local Authority District,243,208,85.5,7,3.4,27,11.4,"7,811",3.2,149,0.62,843,671,,yes
+Westminster,E09000033,Local Authority District,153,116,69.6,6,4.6,44,27.6,"6,071",4.0,806,5.26,842,851,,yes
+Barking and Dagenham,E09000002,Local Authority District,143,106,73.7,8,6.8,33,23.4,"9,055",6.4,72,0.51,643,623,,yes
+Barnet,E09000003,Local Authority District,252,181,65.5,11,5.5,76,28.8,"10,851",4.3,176,0.70,685,613,,yes
+Bexley,E09000004,Local Authority District,155,129,77.7,6,4.1,30,18.5,"4,766",3.1,87,0.56,709,609,,yes
+Brent,E09000005,Local Authority District,234,136,59.5,10,6.7,77,36.1,"14,316",6.1,147,0.63,624,666,,yes
+Bromley,E09000006,Local Authority District,207,174,78.2,9,4.9,35,16.3,"5,976",2.9,124,0.60,787,679,,yes
+Croydon,E09000008,Local Authority District,257,203,75.2,12,5.5,50,19.3,"14,081",5.5,142,0.55,708,711,,yes
+Ealing,E09000009,Local Authority District,250,186,77.5,10,5.0,40,17.4,"13,299",5.3,158,0.63,671,617,Cells H229 I229 have a small sample size,yes
+Enfield,E09000010,Local Authority District,212,140,60.9,10,6.3,78,35.0,"12,080",5.7,123,0.58,670,606,,yes
+Greenwich,E09000011,Local Authority District,200,166,80.1,8,4.5,35,17.1,"9,617",4.8,102,0.51,740,658,,yes
+Harrow,E09000015,Local Authority District,169,119,73.4,6,4.8,29,18.6,"5,998",3.5,85,0.50,749,609,,yes
+Havering,E09000016,Local Authority District,164,141,82.8,6,4.3,26,15.4,"6,204",3.8,105,0.64,705,614,,yes
+Hillingdon,E09000017,Local Authority District,200,147,64.8,11,6.9,55,26.2,"7,910",4.0,203,1.02,698,673,,yes
+Hounslow,E09000018,Local Authority District,195,149,80.5,7,4.7,35,18.9,"9,508",4.9,174,0.89,675,727,Cells H235 I235 have a small sample size,yes
+Kingston upon Thames,E09000021,Local Authority District,111,107,85.5,4,3.6,15,12.3,"2,926",2.6,89,0.80,767,690,Cells H236 I236 have a small sample size,yes
+Merton,E09000024,Local Authority District,146,113,75.4,6,4.8,29,20.6,"5,629",3.9,93,0.64,682,662,,yes
+Redbridge,E09000026,Local Authority District,204,148,70.0,8,5.0,58,28.1,"9,598",4.7,93,0.46,732,588,,yes
+Richmond upon Thames,E09000027,Local Authority District,124,103,79.2,4,3.9,22,18.0,"2,926",2.4,97,0.78,813,707,,yes
+Sutton,E09000029,Local Authority District,134,106,78.3,5,4.6,23,17.4,"3,815",2.9,96,0.71,696,595,,yes
+Waltham Forest,E09000031,Local Authority District,193,144,71.3,8,5.5,52,27.1,"10,935",5.7,83,0.43,728,632,,yes
+Bracknell Forest,E06000036,Local Authority District,82,65,80.0,2,3.0,13,17.1,"1,617",2.0,68,0.83,728,775,,yes
+Brighton and Hove,E06000043,Local Authority District,196,156,72.4,8,4.7,46,22.1,"7,691",3.9,172,0.88,618,600,,yes
+Buckinghamshire,E06000060,Local Authority District,341,276,80.5,9,3.0,58,17.8,"8,709",2.6,288,0.84,690,671,,yes
+Isle of Wight,E06000046,Local Authority District,79,57,69.6,3,4.2,20,26.2,"2,753",3.5,61,0.77,569,516,,yes
+Medway,E06000035,Local Authority District,176,146,79.2,6,4.0,30,16.8,"6,638",3.8,113,0.64,606,576,,yes
+Milton Keynes,E06000042,Local Authority District,186,137,78.3,5,3.7,33,19.3,"6,483",3.5,196,1.06,643,658,,yes
+Portsmouth,E06000044,Local Authority District,139,120,81.2,5,3.8,25,17.6,"6,205",4.5,125,0.90,598,615,,yes
+Reading,E06000038,Local Authority District,119,97,85.5,4,3.7,12,11.0,"4,390",3.7,131,1.10,659,652,,yes
+Slough,E06000039,Local Authority District,103,73,73.7,3,4.5,20,20.3,"4,806",4.6,94,0.90,647,736,,yes
+Southampton,E06000045,Local Authority District,168,135,75.0,7,4.6,38,21.8,"6,804",4.0,132,0.78,602,646,,yes
+West Berkshire,E06000037,Local Authority District,99,85,82.5,2,2.6,15,15.9,"2,025",2.0,105,1.06,670,753,,yes
+Windsor and Maidenhead,E06000040,Local Authority District,96,79,82.5,3,3.0,13,14.5,"2,002",2.1,90,0.94,733,681,,yes
+Wokingham,E06000041,Local Authority District,111,87,82.1,2,2.3,17,16.8,"1,774",1.6,100,0.90,744,730,,yes
+East Sussex,E10000011,Local Authority District,313,254,73.4,11,3.9,75,23.5,"10,978",3.5,236,0.75,612,554,,yes
+Hampshire,E10000014,Local Authority District,850,703,80.9,21,2.9,136,16.5,"18,737",2.2,698,0.82,670,640,,yes
+Kent,E10000016,Local Authority District,958,745,74.6,29,3.7,205,21.4,"31,173",3.3,775,0.81,632,575,,yes
+Oxfordshire,E10000025,Local Authority District,466,372,81.1,11,2.8,73,17.1,"9,444",2.0,429,0.92,671,667,,yes
+Surrey,E10000030,Local Authority District,747,639,83.1,17,2.6,114,15.6,"15,225",2.0,656,0.88,738,668,,yes
+West Sussex,E10000032,Local Authority District,527,416,76.4,14,3.3,108,21.3,"13,812",2.6,439,0.83,611,580,,yes
+Bath and North East Somerset,E06000022,Local Authority District,123,100,80.2,2,2.4,19,16.1,"2,169",1.8,110,0.90,587,575,,yes
+"Bournemouth, Christchurch and Poole",E06000058,Local Authority District,248,199,77.9,7,3.2,46,19.1,"8,056",3.2,221,0.89,562,559,,yes
+"Bristol, City of",E06000023,Local Authority District,328,253,76.7,9,3.5,65,20.2,"10,881",3.3,323,0.99,624,632,,yes
+Cornwall,E06000052,Local Authority District,334,263,74.7,8,2.9,77,23.4,"9,037",2.7,289,0.86,516,502,,yes
+Dorset,E06000059,Local Authority District,211,176,79.5,5,2.5,38,18.4,"4,743",2.3,183,0.87,577,546,,yes
+Isles of Scilly,E06000053,Local Authority District,1,[c],[c],[x],[x],[c],[c],17,1.3,1,0.85,[x],[x],,yes
+North Somerset,E06000024,Local Authority District,127,111,83.9,3,2.7,15,12.0,"2,925",2.3,105,0.82,580,550,,yes
+Plymouth,E06000026,Local Authority District,169,126,74.2,4,3.1,40,24.0,"5,438",3.2,136,0.80,521,542,,yes
+Somerset,E06000066,Local Authority District,334,269,79.3,7,2.6,60,18.7,"7,831",2.3,273,0.82,567,547,,yes
+South Gloucestershire,E06000025,Local Authority District,183,156,83.4,3,2.1,26,14.9,"3,126",1.7,174,0.95,616,638,,yes
+Swindon,E06000030,Local Authority District,150,113,78.1,3,2.6,28,20.1,"4,451",3.0,126,0.84,585,603,,yes
+Torbay,E06000027,Local Authority District,80,60,74.9,2,3.1,18,23.4,"2,501",3.1,59,0.74,541,529,,yes
+Wiltshire,E06000054,Local Authority District,310,247,79.0,6,2.2,56,19.0,"6,129",2.0,259,0.83,605,569,,yes
+Devon,E10000008,Local Authority District,475,392,80.0,10,2.4,87,19.0,"9,416",2.0,424,0.89,567,548,,yes
+Gloucestershire,E10000013,Local Authority District,393,333,82.1,8,2.3,62,16.3,"8,873",2.3,342,0.87,604,579,,yes
+Isle of Anglesey,W06000001,Local Authority District,39,34,78.7,1,3.7,7,18.1,"1,370",3.5,26,0.67,588,550,,yes
+Gwynedd,W06000002,Local Authority District,70,57,71.6,2,3.7,20,26.9,"1,976",2.8,61,0.87,518,562,,yes
+Conwy,W06000003,Local Authority District,65,50,73.9,2,3.6,15,24.0,"2,270",3.5,48,0.74,555,524,,yes
+Denbighshire,W06000004,Local Authority District,55,41,71.2,2,3.8,15,27.5,"1,990",3.6,47,0.85,532,571,,yes
+Flintshire,W06000005,Local Authority District,94,78,81.0,2,2.8,16,16.8,"2,703",2.9,81,0.86,577,575,,yes
+Wrexham,W06000006,Local Authority District,83,73,80.5,2,2.9,15,17.7,"2,463",3.0,69,0.84,575,565,,yes
+Powys,W06000023,Local Authority District,76,58,74.0,2,3.4,17,23.4,"1,722",2.3,65,0.86,537,576,,yes
+Ceredigion,W06000008,Local Authority District,42,37,72.7,1,3.4,11,23.8,"1,080",2.6,36,0.84,554,549,,yes
+Pembrokeshire,W06000009,Local Authority District,70,56,74.7,2,4.0,16,22.5,"2,238",3.2,55,0.79,569,532,,yes
+Carmarthenshire,W06000010,Local Authority District,110,81,72.5,4,4.1,27,24.9,"3,058",2.8,80,0.73,567,548,,yes
+Swansea,W06000011,Local Authority District,148,121,74.1,5,4.2,35,22.2,"5,258",3.6,118,0.80,553,550,,yes
+Neath Port Talbot,W06000012,Local Authority District,87,65,72.1,2,3.5,21,24.6,"2,678",3.1,56,0.64,590,597,,yes
+Bridgend,W06000013,Local Authority District,89,63,68.8,2,3.4,26,29.5,"2,587",2.9,64,0.71,578,608,,yes
+The Vale of Glamorgan,W06000014,Local Authority District,79,60,76.6,2,3.2,17,22.8,"2,292",2.9,47,0.60,593,517,,yes
+Cardiff,W06000015,Local Authority District,241,199,76.1,9,4.5,51,20.2,"9,167",3.8,242,1.00,575,587,,yes
+Rhondda Cynon Taf,W06000016,Local Authority District,147,107,70.0,4,3.9,38,25.8,"4,642",3.2,87,0.59,560,520,,yes
+Merthyr Tydfil,W06000024,Local Authority District,37,27,69.8,1,4.3,10,25.7,"1,292",3.5,25,0.69,525,518,,yes
+Caerphilly,W06000018,Local Authority District,108,85,74.0,3,3.6,26,23.3,"3,704",3.4,64,0.60,563,543,,yes
+Blaenau Gwent,W06000019,Local Authority District,42,30,67.2,2,4.6,12,27.7,"1,765",4.2,20,0.49,523,578,,yes
+Torfaen,W06000020,Local Authority District,56,43,75.6,2,3.4,12,22.1,"2,040",3.6,39,0.70,548,563,,yes
+Monmouthshire,W06000021,Local Authority District,54,45,77.0,1,2.9,10,19.3,"1,210",2.2,42,0.78,689,557,,yes
+Newport,W06000022,Local Authority District,100,72,74.3,4,4.9,19,20.7,"4,448",4.4,84,0.84,573,541,,yes
+Aberdeen City,S12000033,Local Authority District,154,116,72.3,5,4.1,39,24.6,"4,945",3.2,172,1.12,587,636,,yes
+Aberdeenshire,S12000034,Local Authority District,160,148,82.0,3,2.1,28,16.7,"3,014",1.9,119,0.74,639,585,,yes
+Angus,S12000041,Local Authority District,69,53,72.3,2,3.3,18,25.8,"2,014",2.9,41,0.59,615,590,,yes
+Argyll & Bute,S12000035,Local Authority District,51,38,72.5,1,3.1,12,25.3,"1,381",2.7,47,0.91,563,556,,yes
+City of Edinburgh,S12000036,Local Authority District,366,301,82.8,9,2.8,53,14.9,"8,603",2.3,395,1.08,637,639,,yes
+Clackmannanshire,S12000005,Local Authority District,32,23,65.9,1,4.1,10,30.8,"1,171",3.7,17,0.54,638,555,,yes
+Dumfries & Galloway,S12000006,Local Authority District,86,60,68.4,3,3.9,22,26.1,"2,518",2.9,70,0.82,550,553,,yes
+Dundee City,S12000042,Local Authority District,98,61,62.3,5,6.9,28,29.3,"4,201",4.3,85,0.87,575,614,,yes
+East Ayrshire,S12000008,Local Authority District,76,55,70.6,2,3.4,21,28.5,"3,139",4.1,48,0.63,630,722,,yes
+East Dunbartonshire,S12000045,Local Authority District,64,49,74.5,1,2.6,15,24.0,"1,250",1.9,30,0.46,755,545,,yes
+East Lothian,S12000010,Local Authority District,67,54,79.7,1,2.5,11,16.5,"1,523",2.3,42,0.62,594,619,,yes
+East Renfrewshire,S12000011,Local Authority District,57,44,77.0,1,2.7,11,20.4,"1,002",1.8,23,0.41,809,627,,yes
+Falkirk,S12000014,Local Authority District,102,75,73.7,3,3.5,23,23.3,"3,023",3.0,74,0.72,595,624,,yes
+Fife,S12000047,Local Authority District,232,172,75.0,7,3.7,50,22.3,"7,981",3.4,152,0.65,612,599,,yes
+Glasgow City,S12000049,Local Authority District,449,326,73.6,17,4.8,103,23.8,"21,408",4.8,464,1.03,627,642,,yes
+Highland,S12000017,Local Authority District,145,122,76.7,3,2.5,31,21.2,"3,353",2.3,128,0.89,611,596,,yes
+Inverclyde,S12000018,Local Authority District,48,34,69.9,1,3.6,13,27.4,"1,800",3.8,29,0.61,570,685,,yes
+Midlothian,S12000019,Local Authority District,59,50,84.2,1,2.2,8,13.9,"1,334",2.3,38,0.64,599,524,,yes
+Moray,S12000020,Local Authority District,59,44,71.4,2,3.4,15,24.7,"1,345",2.3,46,0.79,566,579,,yes
+Na h-Eileanan Siar,S12000013,Local Authority District,16,14,82.7,[low],2.4,3,17.3,295,1.9,14,0.93,670,670,Cells H386 I386 have a small sample size,yes
+North Ayrshire,S12000021,Local Authority District,81,56,68.7,2,3.8,23,29.4,"3,637",4.5,45,0.56,626,597,,yes
+North Lanarkshire,S12000050,Local Authority District,219,165,72.3,6,3.5,55,25.0,"7,481",3.4,142,0.65,598,609,,yes
+Orkney Islands,S12000023,Local Authority District,13,14,89.8,[low],1.9,1,10.2,217,1.6,14,1.03,565,541,Cells E389 H389 I389 have a small sample size,yes
+Perth & Kinross,S12000048,Local Authority District,93,73,76.9,2,2.8,19,21.1,"2,156",2.3,77,0.84,575,633,,yes
+Renfrewshire,S12000038,Local Authority District,116,91,78.4,3,2.9,24,21.0,"3,670",3.2,89,0.77,663,613,,yes
+Scottish Borders,S12000026,Local Authority District,68,53,77.2,2,3.2,13,19.1,"2,006",3.0,53,0.78,552,527,,yes
+Shetland Islands,S12000027,Local Authority District,14,14,89.1,[low],2.0,2,10.9,238,1.7,16,1.12,678,688,Cells E393 H393 I393 have a small sample size,yes
+South Ayrshire,S12000028,Local Authority District,66,43,61.4,2,4.2,21,32.9,"2,349",3.6,53,0.81,671,617,,yes
+South Lanarkshire,S12000029,Local Authority District,202,160,78.3,5,2.8,40,19.8,"6,269",3.1,135,0.67,651,619,,yes
+Stirling,S12000030,Local Authority District,60,48,77.7,2,3.0,11,19.0,"1,436",2.4,51,0.86,653,649,,yes
+West Dunbartonshire,S12000039,Local Authority District,55,42,73.4,2,3.7,13,24.2,"2,484",4.5,38,0.69,651,575,,yes
+West Lothian,S12000040,Local Authority District,119,91,75.3,3,3.0,25,21.6,"3,142",2.6,86,0.73,603,584,,yes

@@ -16,10 +16,8 @@ Blackburn with Darwen,E06000008,530
 Blackpool,E06000009,470
 Cheshire East,E06000049,638
 Cheshire West and Chester,E06000050,620
-Cumberland,E06000063,
 Halton,E06000006,598
 Warrington,E06000007,630
-Westmorland and Furness,E06000064,
 Bolton,E08000001,528
 Bury,E08000002,609
 Manchester,E08000003,529
@@ -87,7 +85,6 @@ Hertfordshire,E10000015,705
 Norfolk,E10000020,567
 Suffolk,E10000029,574
 Camden,E09000007,786
-City of London,E09000001,
 Hackney,E09000012,705
 Hammersmith and Fulham,E09000013,783
 Haringey,E09000014,703
@@ -143,7 +140,6 @@ Bath and North East Somerset,E06000022,587
 "Bristol, City of",E06000023,624
 Cornwall,E06000052,516
 Dorset,E06000059,577
-Isles of Scilly,E06000053,
 North Somerset,E06000024,580
 Plymouth,E06000026,521
 Somerset,E06000066,567

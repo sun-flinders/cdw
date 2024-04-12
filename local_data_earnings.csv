@@ -34,7 +34,7 @@ Sefton,E08000014,587
 St. Helens,E08000013,576
 Wirral,E08000015,575
 East Riding of Yorkshire,E06000011,609
-"Kingston upon Hull, City of",E06000010,510
+Kingston upon Hull,E06000010,510
 North East Lincolnshire,E06000012,558
 North Lincolnshire,E06000013,585
 North Yorkshire,E06000065,585
@@ -58,7 +58,7 @@ Derbyshire,E10000007,587
 Leicestershire,E10000018,591
 Lincolnshire,E10000019,574
 Nottinghamshire,E10000024,565
-"Herefordshire, County of",E06000019,566
+Herefordshire,E06000019,566
 Shropshire,E06000051,585
 Stoke-on-Trent,E06000021,519
 Telford and Wrekin,E06000020,566
@@ -135,8 +135,8 @@ Oxfordshire,E10000025,671
 Surrey,E10000030,738
 West Sussex,E10000032,611
 Bath and North East Somerset,E06000022,587
-"Bournemouth, Christchurch and Poole",E06000058,562
-"Bristol, City of",E06000023,624
+Bournemouth,E06000058,562
+Bristol,E06000023,624
 Cornwall,E06000052,516
 Dorset,E06000059,577
 North Somerset,E06000024,580

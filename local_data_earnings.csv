@@ -1,4 +1,8 @@
 ﻿name,LAD23CD,value
+United Kingdom,K02000001,611
+Great Britain,K03000001,613
+England,E92000001,613
+North East,E12000001,547
 County Durham,E06000047,550
 Darlington,E06000005,584
 Hartlepool,E06000001,573
@@ -6,17 +10,22 @@ Middlesbrough,E06000002,529
 Northumberland,E06000057,569
 Redcar and Cleveland,E06000003,511
 Stockton-on-Tees,E06000004,561
+Tyne and Wear (Met County),E11000007,
 Gateshead,E08000037,538
 Newcastle upon Tyne,E08000021,602
 North Tyneside,E08000022,575
 South Tyneside,E08000023,518
 Sunderland,E08000024,484
+North West,E12000002,578
 Blackburn with Darwen,E06000008,530
 Blackpool,E06000009,470
 Cheshire East,E06000049,638
 Cheshire West and Chester,E06000050,620
+Cumberland,E06000063,
 Halton,E06000006,598
 Warrington,E06000007,630
+Westmorland and Furness,E06000064,
+Greater Manchester (Met County),E11000001,570
 Bolton,E08000001,528
 Bury,E08000002,609
 Manchester,E08000003,529
@@ -28,26 +37,43 @@ Tameside,E08000008,527
 Trafford,E08000009,683
 Wigan,E08000010,584
 Lancashire,E10000017,575
+Burnley,E07000117,530
+Chorley,E07000118,641
+Fylde,E07000119,612
+Hyndburn,E07000120,524
+Lancaster,E07000121,611
+Pendle,E07000122,477
+Preston,E07000123,534
+Ribble Valley,E07000124,623
+Rossendale,E07000125,579
+South Ribble,E07000126,550
+West Lancashire,E07000127,567
+Wyre,E07000128,585
+Merseyside (Met County),E11000002,579
 Knowsley,E08000011,572
 Liverpool,E08000012,590
 Sefton,E08000014,587
 St. Helens,E08000013,576
 Wirral,E08000015,575
+Yorkshire and The Humber,E12000003,569
 East Riding of Yorkshire,E06000011,609
 Kingston upon Hull,E06000010,510
 North East Lincolnshire,E06000012,558
 North Lincolnshire,E06000013,585
 North Yorkshire,E06000065,585
 York,E06000014,598
+South Yorkshire (Met County),E11000003,569
 Barnsley,E08000016,536
 Doncaster,E08000017,569
 Rotherham,E08000018,541
 Sheffield,E08000019,591
+West Yorkshire (Met County),E11000006,560
 Bradford,E08000032,545
 Calderdale,E08000033,535
 Kirklees,E08000034,552
 Leeds,E08000035,597
 Wakefield,E08000036,529
+East Midlands,E12000004,573
 Derby,E06000015,579
 Leicester,E06000016,516
 North Northamptonshire,E06000061,580
@@ -55,15 +81,59 @@ Nottingham,E06000018,491
 Rutland,E06000017,710
 West Northamptonshire,E06000062,599
 Derbyshire,E10000007,587
+Amber Valley,E07000032,599
+Bolsover,E07000033,524
+Chesterfield,E07000034,540
+Derbyshire Dales,E07000035,563
+Erewash,E07000036,621
+High Peak,E07000037,574
+North East Derbyshire,E07000038,579
+South Derbyshire,E07000039,630
 Leicestershire,E10000018,591
+Blaby,E07000129,597
+Charnwood,E07000130,557
+Harborough,E07000131,648
+Hinckley and Bosworth,E07000132,576
+Melton,E07000133,497
+North West Leicestershire,E07000134,643
+Oadby and Wigston,E07000135,568
 Lincolnshire,E10000019,574
+Boston,E07000136,497
+East Lindsey,E07000137,525
+Lincoln,E07000138,556
+North Kesteven,E07000139,609
+South Holland,E07000140,576
+South Kesteven,E07000141,583
+West Lindsey,E07000142,615
 Nottinghamshire,E10000024,565
+Ashfield,E07000170,535
+Bassetlaw,E07000171,504
+Broxtowe,E07000172,655
+Gedling,E07000173,575
+Mansfield,E07000174,518
+Newark and Sherwood,E07000175,590
+Rushcliffe,E07000176,661
+West Midlands,E12000005,582
 Herefordshire,E06000019,566
 Shropshire,E06000051,585
 Stoke-on-Trent,E06000021,519
 Telford and Wrekin,E06000020,566
 Staffordshire,E10000028,600
+Cannock Chase,E07000192,583
+East Staffordshire,E07000193,577
+Lichfield,E07000194,708
+Newcastle-under-Lyme,E07000195,565
+South Staffordshire,E07000196,630
+Stafford,E07000197,615
+Staffordshire Moorlands,E07000198,600
+Tamworth,E07000199,562
 Warwickshire,E10000031,642
+North Warwickshire,E07000218,621
+Nuneaton and Bedworth,E07000219,559
+Rugby,E07000220,658
+Stratford-on-Avon,E07000221,676
+Warwick,E07000222,729
+West Midlands (Met County),E11000005,575
 Birmingham,E08000025,564
 Coventry,E08000026,610
 Dudley,E08000027,589
@@ -72,6 +142,13 @@ Solihull,E08000029,694
 Walsall,E08000030,548
 Wolverhampton,E08000031,560
 Worcestershire,E10000034,577
+Bromsgrove,E07000234,668
+Malvern Hills,E07000235,596
+Redditch,E07000236,508
+Worcester,E07000237,580
+Wychavon,E07000238,551
+Wyre Forest,E07000239,584
+East of England,E12000006,629
 Bedford,E06000055,626
 Central Bedfordshire,E06000056,677
 Luton,E06000032,585
@@ -79,11 +156,53 @@ Peterborough,E06000031,566
 Southend-on-Sea,E06000033,665
 Thurrock,E06000034,671
 Cambridgeshire,E10000003,666
+Cambridge,E07000008,729
+East Cambridgeshire,E07000009,629
+Fenland,E07000010,547
+Huntingdonshire,E07000011,589
+South Cambridgeshire,E07000012,783
 Essex,E10000012,635
+Basildon,E07000066,631
+Braintree,E07000067,601
+Brentwood,E07000068,665
+Castle Point,E07000069,605
+Chelmsford,E07000070,667
+Colchester,E07000071,595
+Epping Forest,E07000072,666
+Harlow,E07000073,549
+Maldon,E07000074,727
+Rochford,E07000075,776
+Tendring,E07000076,573
+Uttlesford,E07000077,728
 Hertfordshire,E10000015,705
+Broxbourne,E07000095,700
+Dacorum,E07000096,690
+East Hertfordshire,E07000242,763
+Hertsmere,E07000098,656
+North Hertfordshire,E07000099,766
+St Albans,E07000240,875
+Stevenage,E07000243,578
+Three Rivers,E07000102,664
+Watford,E07000103,617
+Welwyn Hatfield,E07000241,668
 Norfolk,E10000020,567
+Breckland,E07000143,523
+Broadland,E07000144,574
+Great Yarmouth,E07000145,518
+King's Lynn and West Norfolk,E07000146,559
+North Norfolk,E07000147,559
+Norwich,E07000148,601
+South Norfolk,E07000149,615
 Suffolk,E10000029,574
+Babergh,E07000200,575
+East Suffolk,E07000244,549
+Ipswich,E07000202,552
+Mid Suffolk,E07000203,591
+West Suffolk,E07000245,586
+London,E12000007,728
+Inner London,E13000001,767
 Camden,E09000007,786
+City of London,E09000001,
 Hackney,E09000012,705
 Hammersmith and Fulham,E09000013,783
 Haringey,E09000014,703
@@ -96,6 +215,7 @@ Southwark,E09000028,724
 Tower Hamlets,E09000030,797
 Wandsworth,E09000032,843
 Westminster,E09000033,842
+Outer London,E13000002,704
 Barking and Dagenham,E09000002,643
 Barnet,E09000003,685
 Bexley,E09000004,709
@@ -115,6 +235,7 @@ Redbridge,E09000026,732
 Richmond upon Thames,E09000027,813
 Sutton,E09000029,696
 Waltham Forest,E09000031,728
+South East,E12000008,660
 Bracknell Forest,E06000036,728
 Brighton and Hove,E06000043,618
 Buckinghamshire,E06000060,690
@@ -129,16 +250,69 @@ West Berkshire,E06000037,670
 Windsor and Maidenhead,E06000040,733
 Wokingham,E06000041,744
 East Sussex,E10000011,612
+Eastbourne,E07000061,554
+Hastings,E07000062,540
+Lewes,E07000063,671
+Rother,E07000064,580
+Wealden,E07000065,614
 Hampshire,E10000014,670
+Basingstoke and Deane,E07000084,726
+East Hampshire,E07000085,633
+Eastleigh,E07000086,653
+Fareham,E07000087,708
+Gosport,E07000088,606
+Hart,E07000089,770
+Havant,E07000090,560
+New Forest,E07000091,654
+Rushmoor,E07000092,679
+Test Valley,E07000093,634
+Winchester,E07000094,698
 Kent,E10000016,632
+Ashford,E07000105,598
+Canterbury,E07000106,579
+Dartford,E07000107,702
+Dover,E07000108,645
+Folkestone and Hythe,E07000112,608
+Gravesham,E07000109,615
+Maidstone,E07000110,631
+Sevenoaks,E07000111,749
+Swale,E07000113,580
+Thanet,E07000114,560
+Tonbridge and Malling,E07000115,692
+Tunbridge Wells,E07000116,699
 Oxfordshire,E10000025,671
+Cherwell,E07000177,649
+Oxford,E07000178,665
+South Oxfordshire,E07000179,729
+Vale of White Horse,E07000180,686
+West Oxfordshire,E07000181,629
 Surrey,E10000030,738
+Elmbridge,E07000207,826
+Epsom and Ewell,E07000208,703
+Guildford,E07000209,754
+Mole Valley,E07000210,708
+Reigate and Banstead,E07000211,705
+Runnymede,E07000212,728
+Spelthorne,E07000213,738
+Surrey Heath,E07000214,781
+Tandridge,E07000215,728
+Waverley,E07000216,719
+Woking,E07000217,693
 West Sussex,E10000032,611
+Adur,E07000223,535
+Arun,E07000224,576
+Chichester,E07000225,652
+Crawley,E07000226,585
+Horsham,E07000227,670
+Mid Sussex,E07000228,674
+Worthing,E07000229,579
+South West,E12000009,577
 Bath and North East Somerset,E06000022,587
 Bournemouth,E06000058,562
 Bristol,E06000023,624
 Cornwall,E06000052,516
 Dorset,E06000059,577
+Isles of Scilly,E06000053,
 North Somerset,E06000024,580
 Plymouth,E06000026,521
 Somerset,E06000066,567
@@ -147,7 +321,22 @@ Swindon,E06000030,585
 Torbay,E06000027,541
 Wiltshire,E06000054,605
 Devon,E10000008,567
+East Devon,E07000040,593
+Exeter,E07000041,593
+Mid Devon,E07000042,595
+North Devon,E07000043,515
+South Hams,E07000044,579
+Teignbridge,E07000045,533
+Torridge,E07000046,521
+West Devon,E07000047,530
 Gloucestershire,E10000013,604
+Cheltenham,E07000078,658
+Cotswold,E07000079,601
+Forest of Dean,E07000080,603
+Gloucester,E07000081,546
+Stroud,E07000082,578
+Tewkesbury,E07000083,657
+Wales,W92000004,571
 Isle of Anglesey,W06000001,588
 Gwynedd,W06000002,518
 Conwy,W06000003,555
@@ -170,6 +359,7 @@ Blaenau Gwent,W06000019,523
 Torfaen,W06000020,548
 Monmouthshire,W06000021,689
 Newport,W06000022,573
+Scotland,S92000003,622
 Aberdeen City,S12000033,587
 Aberdeenshire,S12000034,639
 Angus,S12000041,615
@@ -202,3 +392,4 @@ South Lanarkshire,S12000029,651
 Stirling,S12000030,653
 West Dunbartonshire,S12000039,651
 West Lothian,S12000040,603
+Northern Ireland,N92000002,575
